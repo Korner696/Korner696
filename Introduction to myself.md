@@ -1,0 +1,5 @@
+- 👋 Hi, my name is Korner Von Curiem 
+- 👀 I’m interested in C,C#, C++, Java, Python and Html also Linux based systems
+- 🌱 I’m currently learning C and C#
+- 💞️ I’m looking to collaborate on open source projects of all kind, to contribute for new tools for the people
+- 📫 How to reach me (not for the moment)
